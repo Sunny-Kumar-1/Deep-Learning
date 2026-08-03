@@ -1,0 +1,4 @@
+{
+    "notebook.cellExecutionTimeVerbosity": "verbose",
+    "notebook.showCellStatusBar": "visibleAfterExecute"
+}
