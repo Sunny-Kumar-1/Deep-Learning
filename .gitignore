@@ -2,7 +2,9 @@
 __pycache__/
 *.py[codz]
 *$py.class
-model
+model/
+models/
+runs/
 
 # C extensions
 *.so
@@ -170,7 +172,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
+/runs/
 # mypy
 .mypy_cache/
 .dmypy.json
