@@ -1,0 +1,3 @@
+img,Preictions,prediction Time (s),timestamp
+.gradio\flagged\img\2fca8fde087bf4b5c076\images.jpg,"{""label"": ""pizza"", ""confidences"": [{""label"": ""pizza"", ""confidence"": 0.9585718512535095}, {""label"": ""sushi"", ""confidence"": 0.022660579532384872}, {""label"": ""steak"", ""confidence"": 0.01876756176352501}]}",0.54316,2026-08-14 20:02:10.492046
+.gradio\flagged\img\f36cba677497d1624f70\images.jpg,"{""label"": ""pizza"", ""confidences"": [{""label"": ""pizza"", ""confidence"": 0.9585718512535095}, {""label"": ""sushi"", ""confidence"": 0.022660579532384872}, {""label"": ""steak"", ""confidence"": 0.01876756176352501}]}",0.54316,2026-08-14 20:02:15.106587
