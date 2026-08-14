@@ -5,7 +5,9 @@ __pycache__/
 model/
 models/
 runs/
-
+pytorch/models/
+D:/Deep-Learning/pytorch/models/
+pytorch/models/
 # C extensions
 *.so
 pytorch/helper_functions.py
